@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Thai",
+      "mssv": "23423423"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Sách abc",
+      "author": "Tác giả A ",
+      "year": 2009,
+      "cover": "https://uibakery.io/regex-library/url"
+    },
+    {
+      "id": 3,
+      "title": "Sách abc123",
+      "author": "Tác giả C",
+      "year": 2009,
+      "cover": "https://uibakery.io/regex-library/url"
+    },
+    {
+      "title": "123",
+      "author": "123",
+      "year": "123",
+      "cover": "https://uibakery.io/regex-library/url",
+      "id": 6
+    }
+  ]
+}
